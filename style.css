@@ -1,0 +1,16 @@
+body{
+    background-image: url(./Baglioni-Resort-Maldives.jpg);
+}
+.profImg{
+    border-radius: 50%;
+}
+h2{
+    color: coral;
+}
+p{
+    color: coral;
+}
+#main{
+    display: grid;
+    place-content: center;
+}
